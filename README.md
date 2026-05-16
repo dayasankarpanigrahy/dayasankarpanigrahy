@@ -1,7 +1,7 @@
-# Hi there, I'm Dayasankar Panigrahi! 👋
+# Hi there, I'm Dayasankar Panigrahy! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Frontend+%26+Full+Stack+Dev;Angular+Specialist;Exploring+AI%2FML+%26+FinTech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Frontend+%26+Full+Stack+Developer;Angular+Specialist;Exploring+AI%2FML+%26+FinTech" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,15 +31,15 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayasankarpanigrahi&show_icons=true&theme=tokyonight&count_private=true" alt="Dayasankar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayasankarpanigrahi&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahi&theme=tokyonight" alt="Dayasankar's Streak Stats" width="48%" />
+  <img src="https://github-metrics.lecoq.io/dayasankarpanigrahi?template=classic&base=repositories,metadata&config_timezone=Asia/Kolkata" alt="Dayasankar's Metrics" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dayasankarpanigrahi" target="_blank">
+  <a href="https://www.linkedin.com/in/dayasankarpanigrahy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
