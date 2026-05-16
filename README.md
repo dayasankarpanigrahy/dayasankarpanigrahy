@@ -1,4 +1,4 @@
-# Hi there, <p style="color: blue;">I'm Dayasankar Panigrahy!</p> 👋
+# Hi there, I'm Dayasankar Panigrahy!👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Frontend+%26+Full+Stack+Developer;Angular+Specialist;Exploring+AI%2FML+%26+FinTech" alt="Typing SVG" />
