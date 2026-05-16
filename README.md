@@ -32,9 +32,25 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahy&theme=tokyonight" alt="Dayasankar's Streak Stats" width="48%" />
-  <img src="https://github-metrics.lecoq.io/dayasankarpanigrahy?template=classic&base=repositories,metadata&config_timezone=Asia/Kolkata" alt="Dayasankar's Metrics" width="48%" />
+  ### 📊 Git Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahy&theme=tokyonight&hide_border=true" alt="Dayasankar's Streak Stats" width="80%" />
 </p>
 
+<br>
+
+<div align="center">
+
+| 🚀 **Core Domain** | ⚡ **Technologies & Frameworks** | 📈 **Current Focus** |
+| :--- | :--- | :--- |
+| **Frontend Architecture** | Angular, TypeScript, JavaScript, HTML5/CSS3 | Responsive UI Components |
+| **Full-Stack & Backend** | Java, Python, SQL Database Management | API Integrations & Core Logic |
+| **AI & Intelligent Systems** | Jupyter Notebooks, AI Prompting, Data Models | Exploring FinTech Use-Cases |
+
+</div>
+
+<br>
 ---
 
 ### 🤝 Connect with Me
