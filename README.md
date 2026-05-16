@@ -48,6 +48,8 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 
 <br>
 
+---
+
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dayasankarpanigrahy" target="_blank">
