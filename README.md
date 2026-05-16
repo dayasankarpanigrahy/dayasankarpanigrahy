@@ -28,11 +28,7 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahy&theme=tokyonight" alt="Dayasankar's Streak Stats" width="48%" />
-  ### 📊 Git Activity & Metrics
+### 📊 Git Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahy&theme=tokyonight&hide_border=true" alt="Dayasankar's Streak Stats" width="80%" />
