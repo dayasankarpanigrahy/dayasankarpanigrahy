@@ -31,8 +31,8 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahi&theme=tokyonight" alt="Dayasankar's Streak Stats" width="48%" />
-  <img src="https://github-metrics.lecoq.io/dayasankarpanigrahi?template=classic&base=repositories,metadata&config_timezone=Asia/Kolkata" alt="Dayasankar's Metrics" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayasankarpanigrahy&theme=tokyonight" alt="Dayasankar's Streak Stats" width="48%" />
+  <img src="https://github-metrics.lecoq.io/dayasankarpanigrahy?template=classic&base=repositories,metadata&config_timezone=Asia/Kolkata" alt="Dayasankar's Metrics" width="48%" />
 </p>
 
 ---
