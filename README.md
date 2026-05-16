@@ -47,11 +47,10 @@ I am a passionate **Frontend & Full Stack Developer** dedicated to building scal
 </div>
 
 <br>
----
 
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/dayasankarpanigrahy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </p>
